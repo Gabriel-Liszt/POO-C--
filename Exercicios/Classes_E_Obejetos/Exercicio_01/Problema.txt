@@ -1,0 +1,11 @@
+Desenvolva uma classe em C++ para representar uma lâmpada que está à venda em um supermercado. Esta classe deve encapsular os atributos e comportamentos típicos de uma lâmpada, permitindo a manipulação de seu estado e características através de métodos bem definidos. A seguir, são apresentadas as especificações detalhadas para a implementação da classe.
+
+Especificações da Classe Lâmpada
+Nome da Classe: Lampada
+
+Atributos:
+
+estado (booleano): Indica se a lâmpada está ligada (true) ou desligada (false).
+potencia (inteiro): Potência da lâmpada em watts (por exemplo, 60W).
+cor (string): Cor da luz emitida pela lâmpada (por exemplo, "branca", "amarela").
+preco (float): Preço da lâmpada em reais.
