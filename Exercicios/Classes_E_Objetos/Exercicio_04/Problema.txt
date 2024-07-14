@@ -1,0 +1,19 @@
+Objetivo:
+Desenvolver uma classe denominada "LivroAluguel" em C++, implementando seus atributos fundamentais. Em seguida, criar um objeto dessa classe para representar um livro que pode ser alugado.
+
+Instruções:
+
+Criação da Classe:
+
+Defina uma classe chamada LivroAluguel.
+A classe deve possuir os seguintes atributos públicos:
+titulo (std::string): título do livro.
+autor (std::string): nome do autor do livro.
+ano_publicacao (int): ano de publicação do livro.
+genero (std::string): gênero literário do livro.
+disponivel (bool): indicador se o livro está disponível para aluguel.
+Manipulação do Objeto:
+
+Crie um objeto da classe LivroAluguel com valores de exemplo para os atributos.
+Atribua novos valores aos atributos do objeto.
+Exiba os valores dos atributos antes e depois da alteração.
