@@ -1,0 +1,13 @@
+Objetivo:
+Desenvolver uma classe denominada "Livro" em C++, implementando apenas os atributos fundamentais. Em seguida, criar um objeto dessa classe e manipulá-lo para demonstrar a atribuição e acesso aos valores dos atributos.
+
+Instruções:
+
+Criação da Classe:
+
+Defina uma classe chamada Livro.
+A classe deve possuir os seguintes atributos públicos:
+titulo (std::string): título do livro.
+autor (std::string): nome do autor do livro.
+ano_publicacao (int): ano de publicação do livro.
+genero (std::string): gênero literário do livro.
