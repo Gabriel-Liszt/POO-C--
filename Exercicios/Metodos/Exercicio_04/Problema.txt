@@ -1,0 +1,11 @@
+Desenvolva uma classe em C++ chamada JogoDaVelha para representar o jogo da velha. A classe deve possuir os seguintes atributos e métodos:
+
+Atributos:
+tabuleiro: uma matriz 3x3 que representa o estado atual do jogo.
+jogadorAtual: um caractere ('X' ou 'O') que indica qual jogador está na vez.
+Métodos:
+iniciarJogo(): método que inicializa o jogo e limpa o tabuleiro.
+exibirTabuleiro(): método que exibe o tabuleiro atual na tela.
+fazerJogada(int linha, int coluna): método que permite ao jogador atual fazer uma jogada na posição especificada.
+verificarVencedor(): método que verifica se há um vencedor ou se o jogo terminou em empate.
+trocarJogador(): método que troca o jogador atual após uma jogada.

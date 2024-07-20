@@ -1,0 +1,14 @@
+Desenvolva uma classe em C++ chamada ContaCorrente para representar uma conta corrente. A classe deve possuir os seguintes atributos e métodos:
+
+Atributos:
+numero: um inteiro que representa o número da conta.
+saque: um double que representa o valor do saque
+deposito: um double que representa o valor de deposito
+saldo: um double que representa o saldo da conta.
+especial: um booleano que indica se a conta é especial (true) ou não (false).
+limite: um double que representa o limite do cheque especial.
+Métodos:
+sacar(double valor): método para realizar um saque, verificando se o cliente pode realizar o saque (considerando o saldo e o limite).
+depositar(double valor): método para depositar dinheiro na conta.
+consultarSaldo(): método que retorna o saldo atual da conta.
+usandoChequeEspecial(): método que retorna um booleano indicando se o cliente está utilizando o cheque especial.

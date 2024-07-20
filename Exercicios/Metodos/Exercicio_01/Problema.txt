@@ -1,0 +1,20 @@
+Enunciado:
+
+Desenvolva uma classe em C++ chamada Lampada para representar uma lâmpada. A classe deve possuir os seguintes atributos e métodos:
+
+Atributos:
+estado: um booleano que indica se a lâmpada está ligada (true) ou desligada (false).
+Métodos:
+ligar(): método que altera o estado da lâmpada para ligada.
+desligar(): método que altera o estado da lâmpada para desligada.
+getEstado(): método que retorna o estado atual da lâmpada (ligada ou desligada).
+
+Tarefa:
+Implemente a classe Lampada.
+No método main(), crie um objeto da classe Lampada e demonstre o uso dos métodos ligar(), desligar() e getEstado().
+Exemplo de Uso:
+Crie uma instância da classe Lampada.
+Use o método ligar() para ligar a lâmpada.
+Verifique o estado da lâmpada usando o método getEstado().
+Use o método desligar() para desligar a lâmpada.
+Verifique novamente o estado da lâmpada usando o método getEstado().

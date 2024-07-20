@@ -1,0 +1,10 @@
+Desenvolva uma classe em C++ chamada Aluno para representar um aluno. A classe deve possuir os seguintes atributos e métodos:
+
+Atributos:
+nome: uma string que representa o nome do aluno.
+matricula: uma string que representa a matrícula do aluno.
+curso: uma string que representa o curso em que o aluno está matriculado.
+disciplinas: um array de 3 strings que representam os nomes das disciplinas que o aluno está cursando.
+notas: um array de 3 doubles que representam as notas nas disciplinas correspondentes.
+Métodos:
+verificarAprovacao(int indiceDisciplina): método que verifica se o aluno está aprovado (nota maior ou igual a 7) em uma determinada disciplina.
